@@ -1,0 +1,6 @@
+.header{
+    background: rgb(2,0,36);
+background: linear-gradient(323deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 33%, rgba(5,102,182,1) 75%, rgba(0,212,255,1) 100%);
+color: red ;
+text-align: center;   
+}
